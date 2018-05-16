@@ -1,0 +1,300 @@
+﻿
+.wyzf {
+    background: none repeat scroll 0 0 #F3F3F3;
+    float: left;
+    height: auto;
+    padding-top: 2px;
+	margin-top:10px;
+    width: 100%;
+}
+.wyzf ul {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.wyzf h3 {
+    height: 30px;
+    line-height: 30px;
+    width: 100%;
+}
+.wyzf li {
+    border-bottom: 1px solid #CCCCCC;
+    float: left;
+    font-size: 14px;
+    height: 28px;
+    line-height: 28px;
+}
+.wyzf li a {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #999999 #999999 -moz-use-text-color;
+    border-image: none;
+    border-style: solid solid none;
+    border-width: 1px 1px medium;
+    color: #000000;
+    display: block;
+    font-weight: bold;
+    line-height: 27px;
+    margin-right: 5px;
+    padding: 0 30px;
+}
+.wyzf li.selectTag a {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 #ffffff;
+    border-color: #999999 #999999 #E8F6FE;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px;
+    color: #146C9F;
+    line-height: 27px;
+}
+.wyzf .wuy {
+    border: medium none;
+    margin-right: 0;
+    padding: 0;
+	width:700px !important;
+}
+#tagContent {
+    background: none repeat scroll 0 0 #F3F3F3;
+    float: left;
+    height: auto;
+    width: 100%;
+}
+.tagContent {
+    display: none;
+
+}
+#tagContent DIV.selectTag {
+    display: block;
+}
+.feet_bnt {
+    margin-left: 85px;
+}
+.radio {
+    display: inline;
+    float: left;
+    margin: 10px 5px 0 0;
+}
+.kuaiqian {
+    height: auto;
+    padding-top: 30px;
+    text-align: left;
+    width: 800px;
+	margin:0 auto;
+}
+.kuaiqian ul {
+    margin: 0;
+    padding: 0;
+}
+.kuaiqian li {
+    border: 0 none;
+    float: left;
+    height: 45px;
+    width: 200px;
+}
+.kuaiqian .pho {
+    border: 1px solid #CCCCCC;
+    display: block;
+    float: left;
+    height: 32px;
+    width: 170px;
+}
+.kuaiqian .feet_a {	
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -1px -4px;
+}
+.kuaiqian .feet_b {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -1px -40px ;
+}
+.kuaiqian .feet_c {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -170px -40px ;
+}
+.kuaiqian .feet_d {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -338px -40px ;
+}
+.kuaiqian .feet_e {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -506px -40px ;
+}
+.kuaiqian .feet_f {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -1px -75px ;
+}
+.kuaiqian .feet_g {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -170px -76px ;
+}
+.kuaiqian .feet_h {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -335px -76px ;
+}
+.kuaiqian .feet_i {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -505px -76px ;
+}
+.kuaiqian .feet_j {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -1px -114px ;
+}
+.kuaiqian .feet_k {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -170px -113px ;
+}
+.kuaiqian .feet_l {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -338px -113px ;
+}
+.kuaiqian .feet_m {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -505px -113px ;
+}
+.kuaiqian .feet_n {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -1px -148px ;
+}
+.kuaiqian .feet_o {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -170px -150px ;
+}
+.kuaiqian .feet_p {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -338px -150px ;
+}
+.kuaiqian .feet_q {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -505px -150px ;
+}
+.kuaiqian .feet_r {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -2px -188px ;
+}
+.kuaiqian .feet_s {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -172px -188px ;
+}
+.kuaiqian .feet_t {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -338px -188px ;
+}
+.kuaiqian .feet_u {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -507px -188px ;
+}
+.kuaiqian .feet_v {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -2px -226px ;
+}
+.kuaiqian .feet_w {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -172px -226px ;
+}
+.kuaiqian .feet_x {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -336px -228px ;
+}
+.kuaiqian .feet_y {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -505px -232px ;
+}
+.kuaiqian .feet_z {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -170px -188px ;
+}
+.kuaiqian .feet_za {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -1px -648px ;
+}
+.kuaiqian .feet_zb {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -336px -266px ;
+}
+.kuaiqian .feet_zc {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -506px -268px ;
+}
+.kuaiqian .feet_zd {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -506px -308px ;
+}
+.kuaiqian .feet_ze {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -171px -350px ;
+}
+.kuaiqian .feet_zf {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -170px -648px ;
+}
+.kuaiqian .feet_zg {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -505px -350px ;
+}
+.kuaiqian .feet_zh {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -1px -385px ;
+}
+.kuaiqian .feet_zi {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -168px -388px ;
+}
+.kuaiqian .feet_zj {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -337px -395px ;
+}
+.kuaiqian .feet_zk {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -506px -388px ;
+}
+.kuaiqian .feet_zl {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -1px -458px ;
+}
+.kuaiqian .feet_zm {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -165px -457px ;
+}
+.kuaiqian .feet_zn {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -338px -456px ;
+}
+.kuaiqian .feet_zo {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -2px -512px ;
+}
+.kuaiqian .feet_zp {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -171px -511px ;
+}
+.kuaiqian .feet_zq {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -337px -511px ;
+}
+.kuaiqian .feet_zr {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -505px -511px ;
+}
+.kuaiqian .feet_zs {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -3px -563px ;
+}
+.kuaiqian .feet_zt {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -170px -557px ;
+}
+.kuaiqian .feet_zu {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -338px -557px ;
+}
+.kuaiqian .feet_zv {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -505px -553px ;
+}
+.kuaiqian .feet_zw {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -2px -610px ;
+}
+.kuaiqian .feet_zx {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -170px -608px ;
+}
+.kuaiqian .feet_zy {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -338px -607px ;
+}
+.kuaiqian .feet_zz {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -505px -607px ;
+}
+.kuaiqian .feet_ya {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -337px -648px ;
+}
+.kuaiqian .feet_yb {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -502px -648px ;
+}
+.kuaiqian .feet_yc {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -338px -4px ;
+}
+.kuaiqian .feet_yd {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -2px -306px ;
+}
+.kuaiqian .feet_ye {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -170px -308px ;
+}
+.kuaiqian .feet_yf {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -338px -307px ;
+}
+.kuaiqian .feet_yf {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -338px -307px ;
+}
+.kuaiqian .feet_yg {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -3px -695px ;
+}
+.kuaiqian .feet_yh {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -170px -695px ;
+}
+.kuaiqian .feet_yi {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -338px -695px ;
+}
+.kuaiqian .feet_yj {
+    background: url("../images/banks_logo_2.gif") no-repeat scroll -505px -695px ;
+}
+
+.tagContent table{ margin:20px auto; }
+.ok_span2{ line-height:22px;}
+.bank_bnt{ width:100%; height:40px; padding-top:10px;  text-align:center; float:left }
+.bank_bnt img{ margin:0 auto;}
